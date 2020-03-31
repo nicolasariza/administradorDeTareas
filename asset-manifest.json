@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/administradorDeTareas/static/css/main.493a7e67.chunk.css",
+    "main.js": "/administradorDeTareas/static/js/main.a98cf828.chunk.js",
+    "main.js.map": "/administradorDeTareas/static/js/main.a98cf828.chunk.js.map",
+    "runtime-main.js": "/administradorDeTareas/static/js/runtime-main.b4e43d0b.js",
+    "runtime-main.js.map": "/administradorDeTareas/static/js/runtime-main.b4e43d0b.js.map",
+    "static/js/2.b3c3ac82.chunk.js": "/administradorDeTareas/static/js/2.b3c3ac82.chunk.js",
+    "static/js/2.b3c3ac82.chunk.js.map": "/administradorDeTareas/static/js/2.b3c3ac82.chunk.js.map",
+    "index.html": "/administradorDeTareas/index.html",
+    "precache-manifest.0fcac4210e99809d98aed836f1b357ea.js": "/administradorDeTareas/precache-manifest.0fcac4210e99809d98aed836f1b357ea.js",
+    "service-worker.js": "/administradorDeTareas/service-worker.js",
+    "static/css/main.493a7e67.chunk.css.map": "/administradorDeTareas/static/css/main.493a7e67.chunk.css.map",
+    "static/js/2.b3c3ac82.chunk.js.LICENSE.txt": "/administradorDeTareas/static/js/2.b3c3ac82.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4e43d0b.js",
+    "static/js/2.b3c3ac82.chunk.js",
+    "static/css/main.493a7e67.chunk.css",
+    "static/js/main.a98cf828.chunk.js"
+  ]
+}

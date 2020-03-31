@@ -5,7 +5,7 @@ const Tarea = ({ tarea, eliminarTarea }) => {
   //console.log(keys);
   let fecha = new Date(tarea.fecha);
   fecha = fecha.toString().split(" ")[0];
-
+  
   return (
     <div className="card bg-light mb-3">
       <div className="card-body">
@@ -19,9 +19,12 @@ const Tarea = ({ tarea, eliminarTarea }) => {
           <br />
           <strong>Hora: </strong>
           {tarea.hora}
-          <br />
-          <strong>Descripcion: </strong>
-          {tarea.descripcion}
+          {tarea.descripcion.trim() === "" ? null : (
+            <Fragment>
+              <br /> <strong>Descripcion: </strong>
+              {tarea.descripcion}
+            </Fragment>
+          )}
           <br />
         </p>
 

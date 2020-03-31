@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/administradorDeTareas/static/css/main.493a7e67.chunk.css",
-    "main.js": "/administradorDeTareas/static/js/main.e4bf4258.chunk.js",
-    "main.js.map": "/administradorDeTareas/static/js/main.e4bf4258.chunk.js.map",
+    "main.js": "/administradorDeTareas/static/js/main.96572d79.chunk.js",
+    "main.js.map": "/administradorDeTareas/static/js/main.96572d79.chunk.js.map",
     "runtime-main.js": "/administradorDeTareas/static/js/runtime-main.b4e43d0b.js",
     "runtime-main.js.map": "/administradorDeTareas/static/js/runtime-main.b4e43d0b.js.map",
     "static/js/2.b3c3ac82.chunk.js": "/administradorDeTareas/static/js/2.b3c3ac82.chunk.js",
     "static/js/2.b3c3ac82.chunk.js.map": "/administradorDeTareas/static/js/2.b3c3ac82.chunk.js.map",
     "index.html": "/administradorDeTareas/index.html",
-    "precache-manifest.2d8d2fdf31c032b33aaf914e976a3a82.js": "/administradorDeTareas/precache-manifest.2d8d2fdf31c032b33aaf914e976a3a82.js",
+    "precache-manifest.36b9ee1ba0ebbd0d26d76ede04b235a1.js": "/administradorDeTareas/precache-manifest.36b9ee1ba0ebbd0d26d76ede04b235a1.js",
     "service-worker.js": "/administradorDeTareas/service-worker.js",
     "static/css/main.493a7e67.chunk.css.map": "/administradorDeTareas/static/css/main.493a7e67.chunk.css.map",
     "static/js/2.b3c3ac82.chunk.js.LICENSE.txt": "/administradorDeTareas/static/js/2.b3c3ac82.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b4e43d0b.js",
     "static/js/2.b3c3ac82.chunk.js",
     "static/css/main.493a7e67.chunk.css",
-    "static/js/main.e4bf4258.chunk.js"
+    "static/js/main.96572d79.chunk.js"
   ]
 }
